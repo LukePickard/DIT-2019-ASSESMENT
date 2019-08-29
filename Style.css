@@ -1,0 +1,50 @@
+ol,ul {
+  list-style: none;
+}
+#mainmenu {
+  margin: 10px;
+  width: 900px;
+}
+#mainmenu {
+  display:block;
+  width: 120px;
+  float:left;
+  margin-left:2px;
+	border:1px solid #000;
+}
+nav a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#fff;
+	color:#009;
+}
+nav a:hover {
+	background-color:#009;
+	color:#fff;
+}
+nav a {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
+}
+nav li {
+	display: inline-block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+
+ a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#fff;
+	color:#009;
+}
+
+ a:hover {
+	background-color:#009;
+	color:#fff;
+}
