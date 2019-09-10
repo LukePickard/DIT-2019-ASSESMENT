@@ -12,23 +12,23 @@ ol,ul {
   margin-left:2px;
 	border:1px solid #000;
 }
-nav a {
+ a {
 	display:block;
 	padding:3px;
 	text-decoration:none;
 	background-color:#fff;
 	color:#009;
 }
-nav a:hover {
+ a:hover {
 	background-color:#009;
 	color:#fff;
 }
-nav a {
+ a {
 	margin:10px;
 	width:900px;
 	font-family: sans-serif;
 }
-nav a {
+ a {
 	display: inline-block;
 	width:120px;
 	float:left;
