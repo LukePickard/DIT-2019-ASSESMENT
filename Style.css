@@ -43,3 +43,20 @@ body, html {
   background-position: center;
   background-attachment: fixed;
 }
+
+.hero2{
+  background-image: url(Images/Uniform.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+.hero3{
+  background-image: url(Images/SchoolMap.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
