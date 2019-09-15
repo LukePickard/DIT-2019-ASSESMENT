@@ -1,5 +1,5 @@
 *{
-font-family: 'Syncopate', sans-serif;
+font-family: 'Rajdhani', sans-serif;
 }
 
 .topnav {
@@ -28,12 +28,8 @@ font-family: 'Syncopate', sans-serif;
   background-color: #ffc21a;
   color: white;
 }
-a {
-  font-family: 'Syncopate', sans-serif;
-}
-body, html {
-    height: 100%;
-}
+
+
 
 
 .hero-img{
