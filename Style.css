@@ -1,3 +1,4 @@
+/* Font Is kid friendly but  matrue enough for parents of the child and propfessional enough for my end user requirements*/
 *{
   font-family: 'Rajdhani', sans-serif;
   margin: 5;
@@ -7,10 +8,10 @@
 .topnav {
   background-color: #ffc21a;
 
-
+  text-align: center;
 }
 
-
+/*Navigation bar is symetrical and easy on the eyes*/
  a {
   color: #f2f2f2;
   text-align: center;
